@@ -1,0 +1,3 @@
+# Security Baseline
+
+Use secure session cookies, CSRF protections as applicable, maintained password hashing/auth, rate limits, server-side authorization, tenant isolation, input validation, output encoding, safe upload handling, private storage, signed/idempotent webhooks and audit logs. Keep secrets out of Git/logs; least privilege credentials. Define privacy retention and consent. Back up data and test restores. Review dependencies and security headers before launch.
